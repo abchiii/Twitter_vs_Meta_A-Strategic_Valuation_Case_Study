@@ -33,8 +33,9 @@ To achieve a reliable comparison of Twitter’s value and Musk’s offer, an Ind
 Ultimately, this analysis demonstrates that while quantitative multiples suggest an overvaluation, the qualitative risks—such as Meta’s strategic pivot and Twitter’s platform integrity issues—are the primary drivers of the observed valuation gap.
 
 ## Repository Structure
-* **[documents](./documents)**: Contains the official SEC filings (10-K, 10-Q, 8-K) used for financial modeling.
-* **[Valuation_Case_Study_Twitter_Meta.pdf](./Twitter_Valuation_Report.pdf)**: Detailed academic report covering the valuation methodology and findings.
+* `/documents`: Folder contains the official SEC filings (10-K, 10-Q, 8-K) used for financial modeling.
+
+* `Valuation_Case_Study_Twitter_Meta.pdf`: Detailed academic report covering the valuation methodology and findings.
 
 ## Data Sources
 
@@ -46,4 +47,4 @@ Ultimately, this analysis demonstrates that while quantitative multiples suggest
 * [Form 8-K (Current Report - April 2022)](./documents/Twitter-8K-Apr2022.pdf)
 * [Q1 2022 Form 10-Q (Quarterly Report)](./documents/Twitter-10Q-May2022.pdf)
 ---
-*This project was completed as part of the Bachelor of Commerce curriculum.*
+*This project was completed as part of the University of Melbourne, Bachelor of Commerce curriculum.*
