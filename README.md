@@ -1,2 +1,21 @@
-# Twitter_vs_Meta_A-Strategic_Valuation_Case_Study
+# Twitter vs. Meta: A Strategic Valuation Case Study
+
+## Project Overview
 This project provides a comprehensive relative valuation of Twitter Inc., using Meta Platforms Inc. as the primary strategic comparator. The analysis was conducted during the high-volatility period of Elon Musk’s initial takeover bid in April 2022.
+
+## Key Financial Insights
+* **Core Operations Isolation**: Unlike standard P/E analysis, this study deconstructs the P/E ratio by separating **Core Operations** from **Surplus Assets**. 
+* **Valuation Gap**: The study reveals that Twitter was trading at a market equity value of **$37.46 billion**, which was overpriced by a factor of more than four compared to its calculated firm equity value of **$9.19 billion** based on Meta’s multiples.
+* **Market Sentiment Analysis**: The analysis explains why Meta’s low PE (core operations) of **12.90** reflects a "strategy pivot risk" into the Metaverse, whereas Twitter’s astronomical PE (core operations) of **236.37** reflects high speculative growth and takeover premiums.
+
+## Methodology
+The valuation follows a three-step adjustment process:
+1. **Earnings Normalisation**: Calculating TTM Earnings After Tax (EAT) and excluding after-tax surplus asset income.
+2. **Equity Adjustment**: Adjusting Market Capitalisation for surplus assets such as cash, marketable securities, and goodwill.
+3. **Multiple Application**: Applying Meta’s "clean" PE (core operations) to Twitter’s core earnings to derive a theoretical intrinsic value.
+
+## Takeover Evaluation
+The report evaluates Elon Musk’s **$54.20 per share** offer, noting a control premium of only **10.57%**, significantly lower than the industry average of 20% to 35%. It further discusses how the "Bots" controversy impacted Twitter's valuation and caused the share price to crash to **$37**.
+
+## Conclusion
+To achieve a reliable comparison of Twitter’s value and Musk’s offer, an Independent Expert’s Report would be required. This study highlights the challenges of using a single comparator in a volatile market where risk and growth potential differ significantly between firms.
